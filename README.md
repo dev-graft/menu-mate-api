@@ -4,3 +4,5 @@
 
 > 설명을 위해 작성한 코드블럭입니다.  
 > 템플릿 사용 시 읽어보고 지워주세요!
+
+![image](https://github.com/dev-graft/menu-mate-server/assets/22608825/8b72461e-262d-4828-ad49-a49e62c6c1ea)
