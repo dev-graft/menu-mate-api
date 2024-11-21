@@ -1,0 +1,7 @@
+*.html linguist-vendored
+*.snippet linguist-vendored
+*.css linguist-vendored
+*.feature linguist-vendored
+/gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
